@@ -1,4 +1,4 @@
-package Labs;
+package Labs; 
 import java.util.Scanner;
 public class balancoParenteses {
     public static void main(String[] args) {
