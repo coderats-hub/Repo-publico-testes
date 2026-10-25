@@ -1,0 +1,7 @@
+# Executáveis
+main
+
+# IDE
+.vscode/
+build/
+bin/
