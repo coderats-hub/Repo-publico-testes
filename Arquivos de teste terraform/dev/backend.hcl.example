@@ -1,0 +1,6 @@
+resource_group_name  = "rg-coderats-tfstate"
+storage_account_name = "stcrtfstate9e0045"
+container_name       = "tfstate"
+key                  = "coderats-base/dev.tfstate"
+use_azuread_auth     = true
+use_cli              = true
